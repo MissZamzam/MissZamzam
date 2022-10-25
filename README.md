@@ -1,19 +1,40 @@
 ### Hi there 👋
 
-<!--
-**MissZamzam/MissZamzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi ![]()My name is ZAMZAM HASSAN.
+2
+=========================================================================================================================================
+
+4
+Full Stack Web Developer
+5
+------------------------
+6
+7
+Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in HTML, CSS, Javasript,React, Ruby, Ruby On Rails. Developed full-stack web applications which processed, analyzed, and rendered data visually. Managing time-sensitive updates, including content changes and database upgrades. Key Skills Full Stack Developer HTML, CSS, JavaScript, Bootstrap & Angular JS SQL Databases
+8
+9
+* 🌍  I'm based in KENYA
+10
+* 🖥️  See my portfolio at [JOHN OKETCH AWITI](http://github.com/AWITI0301?)
+11
+* ✉️  You can contact me at [johnoketchawiti@gmail.com](mailto:johnoketchawiti@gmail.com)
+12
+* 🧠  I'm learning Ruby On Rails
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
