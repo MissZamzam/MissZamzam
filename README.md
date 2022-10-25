@@ -11,7 +11,7 @@ Full Stack Web Developer
 ------------------------
 
 
-Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in HTML, CSS, Javasript,React, Ruby, Ruby On Rails. Developed full-stack web applications which processed, analyzed, and rendered data visually. Managing time-sensitive updates, including content changes and database upgrades. Key Skills Full Stack Developer HTML, CSS, JavaScript, Bootstrap & Angular JS SQL Databases
+Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in HTML, CSS, Javasript,React, Ruby, Ruby On Rails. Developed full-stack web applications which processed, analyzed, and rendered data visually. Managing time-sensitive updates, including content changes and database upgrades. Key Skills Full Stack Developer HTML, CSS, JavaScript, Bootstrap & React JS SQL Databases
 
 
 * 🌍  I'm based in KENYA
