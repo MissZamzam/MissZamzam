@@ -9,7 +9,9 @@ I'm Zamzam from Kenya, and I am a full-stack developer with experience in applic
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react,ruby,figma,git,nodejs)](https://skills.thijs.gg)
 
 
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Node.js [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissZamzam)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&hide=contribs,prs)
 
