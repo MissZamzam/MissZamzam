@@ -10,7 +10,7 @@ I'm Zamzam from Kenya, and I am a full-stack developer with experience in applic
 
 
 
-- 🌱 I’m currently learning Node.js 
+🌱 I’m currently learning Node.js 
 
 
  
