@@ -1,6 +1,5 @@
 ### Hi there 👋, Zamzam Hassan
 #### Full-Stack Web Development
-![Full-Stack Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Zamzam from Kenya, and I am a full-stack developer with experience in application layers, presentation layers, and databases. Certified in HTML, CSS, Bootstrap, Javascript, ReactJS, Ruby On Rails, and SQL Databases.
 
