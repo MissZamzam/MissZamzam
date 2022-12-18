@@ -10,8 +10,8 @@ I'm Zamzam from Kenya, and I am a full-stack developer with experience in applic
 
 
 - 🌱 I’m currently learning Node.js 
-- 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissZamzam)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissZamzam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
