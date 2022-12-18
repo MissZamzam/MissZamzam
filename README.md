@@ -5,10 +5,6 @@ I'm Zamzam from Kenya, and I am a full-stack developer with experience in applic
 
 
 ## Skills and Experience
-. 
-
-
-Skills: REACT / JS / RUBY ON RAILS / HTML / CSS / SQL
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react,ruby,figma,git,nodejs)](https://skills.thijs.gg)
 
