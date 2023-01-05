@@ -1,7 +1,7 @@
 # Zamzam Hassan
 #### Full-Stack Web Development
 
-I'm Zamzam from Kenya, and I am a full-stack developer. Certified in HTML, CSS, Bootstrap, Javascript, ReactJS, Ruby On Rails, and SQL Databases.
+I'm Zamzam from Kenya, and I am a full-stack developer.
 
 
 ## Skills and Experience
