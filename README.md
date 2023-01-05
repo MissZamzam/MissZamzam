@@ -1,7 +1,7 @@
 # Zamzam Hassan
 #### Full-Stack Web Development
 
-I'm Zamzam from Kenya, and I am a full-stack developer.
+I'm Zamzam from Kenya,I am a fullstack developer.
 
 
 ## Skills and Experience
