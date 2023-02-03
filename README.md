@@ -6,7 +6,7 @@ I'm Zamzam from Kenya,I am a full-stack developer.
 
 ## Skills and Experience
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react,ruby,gitHub,figma,git,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react,ruby,github,figma,git,nodejs)](https://skills.thijs.gg)
 
 
 
