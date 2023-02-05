@@ -1,8 +1,8 @@
 
-# Full-Stack Web Development
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I'm Zamzam from Kenya,I am a full-stack developer.
-<br><br>
+
+<p>Welcome to my page! </br> I'm Zamzam, Fullstack developer from 🇰🇪 <b>Nairobi, Kenya</b>. </p>
 
 ## Skills and Experience
 
