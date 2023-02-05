@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Zamzam, Fullstack developer from 🇰🇪 <b>Nairobi, Kenya</b>. </p>
+<p>Welcome to my page! </br> I'm Zamzam, Full-Stack Developer from 🇰🇪 <b>Nairobi, Kenya</b>. </p>
 
 ## Skills and Experience
 
