@@ -35,6 +35,11 @@
       <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
     <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
 "></a>
+ 
+ 
+<img src="{https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white
+}"
+
 
   </p>
 
