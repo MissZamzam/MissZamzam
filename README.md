@@ -1,8 +1,4 @@
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page! </br> I'm Zamzam, Full-Stack Developer from  <b>Kenya, based in Nairobi</b>. </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1D83E&background=000000DA&center=true&vCenter=true&width=435&lines=Full-Stack+App+%26+Web+Developer;Open+Source+Enthusiast;Always+Learning+" alt="Typing SVG" /></a>
 <br><br>
 
 ## Technology Stack and Tools
