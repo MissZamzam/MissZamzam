@@ -1,4 +1,7 @@
+
+<p align="center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1D83E&background=000000DA&center=true&vCenter=true&width=435&lines=Full-Stack+App+%26+Web+Developer;Open+Source+Enthusiast;Always+Learning+" alt="Typing SVG" /></a>
+</p>
 <br><br>
 
 ## Technology Stack and Tools
