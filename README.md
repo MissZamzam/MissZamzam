@@ -7,7 +7,8 @@
 </p>
 <br><br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ZamuHajji?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/ZamuHajji?style=social)
+
 
 ## Technology Stack and Tools
 
