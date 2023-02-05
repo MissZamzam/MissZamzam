@@ -7,6 +7,8 @@
 </p>
 <br><br>
 
+https://img.shields.io/twitter/follow/ZamuHajji?style=social
+
 ## Technology Stack and Tools
 
 
