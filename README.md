@@ -4,7 +4,9 @@
 
 <p>Welcome to my page! </br> I'm Zamzam, Full-Stack Developer from 🇰🇪 <b>Nairobi, Kenya</b>. </p>
 <br><br>
+
 ## Technologies and Tools I use
+
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,react,ruby,github,vscode,linux,figma,mysql,git,nodejs)](https://skills.thijs.gg)
 
