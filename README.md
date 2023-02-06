@@ -48,13 +48,6 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=dark)](https://git.io/streak-stats)                                                                                              
                                                                                                        
 
-  <!-- GitHub Readme Streak Stats - https://github.com/MissZamzam/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/MissZamzam/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MissZamzam's streak" src="https://streak-stats.demolab.com/?user=MissZamzam&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
                                                                                                                         
