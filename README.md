@@ -45,7 +45,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&hide=contribs,prs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MissZamzam)](https://git.io/streak-stats)
 
