@@ -42,7 +42,7 @@
 
 ## Github Profile Trophy
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=MissZamzam)](https://github.com/MissZamzam/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MissZamzam&theme=juicyfresh)](https://github.com/MissZamzam/github-profile-trophy)
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissZamzam)](https://github.com/anuraghazra/github-readme-stats)
