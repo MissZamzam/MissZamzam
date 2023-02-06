@@ -41,7 +41,7 @@
   </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=white)
 
 
 
