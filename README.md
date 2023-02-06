@@ -43,34 +43,25 @@
 
                                                                                                        
      
-  <h3>🔥 Streak Stats</h3>
+  ## Streak Stats
                                                                                                        
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=dark)](https://git.io/streak-stats)                                                                                              
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=gruvbox)](https://git.io/streak-stats)                                                                                              
                                                                                                        
 
 
-  <h3>💻 GitHub Profile Stats</h3>
+  ## GitHub Profile Stats
                                                                                                                         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=gruvbox)
 
 
 
-<!-- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MissZamzam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zamzam-hassan-16a7557a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZamuHajji)  
- -->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=dracula)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=gruvbox)
    
+                                                                                             
                                                                                                        
-     <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?MissZamzam=user&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?MissZamzam=user&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>                                                                                                  
-                                                                                                       
-                                                                                                       
-## Github Profile Trophy
+## GitHub Profile Trophy
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=MissZamzam&theme=juicyfresh)](https://github.com/MissZamzam/github-profile-trophy)
 
