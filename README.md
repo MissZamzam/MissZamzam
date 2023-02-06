@@ -44,6 +44,9 @@
                                                                                                        
      
   <h3>🔥 Streak Stats</h3>
+                                                                                                       
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=dark)](https://git.io/streak-stats)                                                                                              
+                                                                                                       
 
   <!-- GitHub Readme Streak Stats - https://github.com/MissZamzam/github-readme-streak-stats -->
   <p>
