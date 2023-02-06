@@ -40,9 +40,6 @@
 
   </p>
 
-## Github Profile Trophy
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=MissZamzam&theme=juicyfresh)](https://github.com/MissZamzam/github-profile-trophy)
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissZamzam)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,7 +54,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MissZamzam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zamzam-hassan-16a7557a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZamuHajji)  
  -->
 
+## Github Profile Trophy
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MissZamzam&theme=juicyfresh)](https://github.com/MissZamzam/github-profile-trophy)
+
+                                                                                                       
 <h3>Where to find me</h3>
 <p><a href="https://github.com/MissZamzam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/ZamuHajji" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
