@@ -16,10 +16,10 @@
 <p align="center">
   I'm Zamzam Full-Stack Developer from Kenya 
 </p>
-<p align="center">
+<!-- <p align="center">
   How to reach me: zamzamhassan44@gmail.com
 </p>
-
+ -->
 <br />
 
 
