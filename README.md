@@ -22,14 +22,7 @@
 
 <br />
 
-<div align="center">
-  <img
-    width="200"
-    style="margin-right: 100px"
-    align="center"
-    src="https://avatars.githubusercontent.com/u/106077186?v=4"
-  />
-</div>
+
 
 
 ## Technology Stack and Tools
