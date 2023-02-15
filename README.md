@@ -59,12 +59,12 @@
 
    ## My GitHub Overview
 
-     
+  <div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=gruvbox)
                                                                                                    
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=gruvbox)](https://git.io/streak-stats)                                                                                              
                                                                                                         -->
-
+</div>
 
                                                                                                                      
                                                                                              
