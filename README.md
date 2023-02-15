@@ -1,12 +1,35 @@
-
+<!-- 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FC7300&center=true&vCenter=true&repeat=false&width=850&lines=Zamzam+Hassan" alt="Typing SVG" /></a>
 </p>
 <p align="center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FC7300&center=true&vCenter=true&width=850&lines=Full-Stack+App+%26+Web+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
 </p>
-<br><br>
+<br><br> -->
 
+<div style="text-align: center">
+  <img width="100%" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" />
+</div>
+
+<h1 align="center">Hello - Hallo - Glad to see you here!</h1>
+
+<p align="center">
+  I'm Zamzam Full-stack Developer developer from Kenya 
+</p>
+<p align="center">
+  How to reach me: zamzamhassan44@gmail.com
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    width="200"
+    style="margin-right: 100px"
+    align="center"
+    src="https://avatars.githubusercontent.com/u/106077186?v=4"
+  />
+</div>
 
 
 ## Technology Stack and Tools
