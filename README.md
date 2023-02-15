@@ -25,7 +25,7 @@
 
 
 
-## Technology Stack and Tools
+<h1 align="center"> Technology Stack and Tools</h1>
 
 
  <p align="center">
