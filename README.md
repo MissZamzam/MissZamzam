@@ -7,14 +7,14 @@
 </p>
 <br><br> -->
 
-<div style="text-align: center">
+<!-- <div style="text-align: center">
   <img width="100%" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" />
 </div>
-
-<h1 align="center">Hello - Hallo - Glad to see you here!</h1>
+ -->
+<h1 align="center">Hello - Glad to see you here!</h1>
 
 <p align="center">
-  I'm Zamzam Full-stack Developer developer from Kenya 
+  I'm Zamzam Full-Stack Developer from Kenya 
 </p>
 <p align="center">
   How to reach me: zamzamhassan44@gmail.com
