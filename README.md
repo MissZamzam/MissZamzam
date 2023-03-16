@@ -63,9 +63,12 @@
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=gruvbox)
                                                                                                      -->
  
-  <div style="text-align: center;">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=MissZamzam&theme=gruvbox)](https://git.io/streak-stats)                                                                                              
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MissZamzam&theme=gruvbox" alt="GitHub Streak" />
+  </a>
+</p>
+
 
                                                                                                                      
                                                                                              
