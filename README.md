@@ -11,7 +11,7 @@
   <img width="100%" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" />
 </div>
  -->
-<h1 align="center">Hello there 👋, I'm Zamzam Hassan</h1>
+<h2 align="center">Hello there 👋, I'm Zamzam Hassan</h2>
 
 <p align="center">
   A Full-Stack Developer from Kenya 
