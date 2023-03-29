@@ -69,7 +69,10 @@
   </a>
 </p> -->
 
-[![MissZamzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![MissZamzam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MissZamzam&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MissZamzam&show_icons=true&theme=dark" alt="MissZamzam's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MissZamzam&theme=dark" alt="MissZamzam's GitHub streak" width="48%" />
+</p>
 
                                                                                                                      
                                                                                              
