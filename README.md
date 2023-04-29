@@ -14,7 +14,7 @@
 <h2 align="center">Hello there 👋, I'm Zamzam Hassan</h2>
 
 <p align="center">
-  A Full-Stack Developer from Kenya 
+  A Frontend Developer from Kenya 
 </p>
 <!-- <p align="center">
   How to reach me: zamzamhassan44@gmail.com
